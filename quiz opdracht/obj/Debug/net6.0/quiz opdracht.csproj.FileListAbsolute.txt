@@ -1,0 +1,30 @@
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\bin\Debug\net6.0\quiz opdracht.exe
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\bin\Debug\net6.0\quiz opdracht.deps.json
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\bin\Debug\net6.0\quiz opdracht.runtimeconfig.json
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\bin\Debug\net6.0\quiz opdracht.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\bin\Debug\net6.0\quiz opdracht.pdb
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.csproj.AssemblyReference.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.AssemblyInfoInputs.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.AssemblyInfo.cs
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.csproj.CoreCompileInputs.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\obj\Debug\net6.0\refint\quiz opdracht.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.pdb
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.genruntimeconfig.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2023 school\C#\quiz opdracht\obj\Debug\net6.0\ref\quiz opdracht.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\bin\Debug\net6.0\quiz opdracht.exe
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\bin\Debug\net6.0\quiz opdracht.deps.json
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\bin\Debug\net6.0\quiz opdracht.runtimeconfig.json
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\bin\Debug\net6.0\quiz opdracht.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\bin\Debug\net6.0\quiz opdracht.pdb
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.csproj.AssemblyReference.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.AssemblyInfoInputs.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.AssemblyInfo.cs
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.csproj.CoreCompileInputs.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\obj\Debug\net6.0\refint\quiz opdracht.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.pdb
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\obj\Debug\net6.0\quiz opdracht.genruntimeconfig.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2023School\C#\quiz opdracht\obj\Debug\net6.0\ref\quiz opdracht.dll
